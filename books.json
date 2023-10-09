@@ -1,0 +1,156 @@
+{
+  "books": [
+    {
+      "id": 4,
+      "title": "Taming Text",
+      "pageCount": 350,
+      "authors": "Grant S. Ingersoll",
+      "categories": "Software Engineering",
+      "summary": "Taming Text is a practical, example-driven guide to working with text in real applications. This book introduces you to useful techniques like full-text search, proper name recognition, clustering, tagging, information extraction, and summarization."
+    },
+    {
+      "id": 5,
+      "title": "JBoss in Action",
+      "pageCount": 496,
+      "authors": "Javid Jamae",
+      "categories": "Java",
+      "summary": "JBoss in Action teaches readers how to use the JBoss application server, digging into the things that separate JBoss from other Java EE servers. This book goes deeply into the advanced features and configuration of the server."
+    },
+    {
+      "id": 6,
+      "title": "Gnuplot in Action",
+      "pageCount": 400,
+      "authors": "Jocelyn Harrington",
+      "categories": "Mobile Technology",
+      "summary": "Gnuplot is an open-source graphics program that helps you analyze, interpret, and present numerical data. Available for Unix, Mac, and Windows, it is well-maintained, mature, and totally free. "
+    },
+    {
+      "id": 7,
+      "title": "Elements of Programming with Perl",
+      "pageCount": 368,
+      "authors": "Andrew L. Johnson",
+      "categories": "Perl",
+      "summary": "It starts at the beginning, teaching programming style, structure, and design. It covers all the fundamental elements of Perl"
+    },
+    {
+      "id": 8,
+      "title": "Life",
+      "pageCount": "234",
+      "authors": "Erwin Schrödinger",
+      "categories": "action",
+      "summary": "compresses a series of lectures given by the notorious physicist Erwin Schrödinger, and is a compelling research on how science, especially biology, chemistry and physics account for the ongoing process that the human body undertakes to simply exist and live"
+    },
+    {
+      "id": 9,
+      "title": "Life is what you make of it",
+      "pageCount": "302",
+      "authors": "preeti shenoy",
+      "categories": "fiction",
+      "summary": "The story revolves around protagonist Ankita who is in her 20s and has some issues from the past which haunts her. The story begins with schooling from a town. Her thoughts get divided and confused."
+    },
+    {
+      "id": 10,
+      "title": "Immortals Of meluha",
+      "pageCount": "415",
+      "authors": "Amit Tripathi",
+      "categories": "fiction",
+      "summary": "Meluha is a near perfect empire, created many centuries earlier by Lord Ram, one of the greatest kings that ever lived. However, the once proud empire and its Suryavanshi rulers face severe crisis as its primary river, Saraswati, was slowly drying to extinction."
+    },
+    {
+      "id": 12,
+      "title": "Everyone Has a story",
+      "pageCount": "321",
+      "authors": "Savi sharma",
+      "categories": "fiction",
+      "summary": "Everyone Has a Story” is about a young girl Meera who is in search of a story and but has no idea where she might find it. "
+    },
+    {
+      "id": 13,
+      "title": "It Ends With Us",
+      "pageCount": "260",
+      "authors": "Coolin Hover",
+      "categories": "fiction",
+      "summary": "It Ends with Us is a book that follows a girl named Lily who has just moved and is ready to start her life after college. "
+    },
+    {
+      "id": 14,
+      "title": "Wake Up Life is calling",
+      "pageCount": "198",
+      "authors": "preeti shenoy",
+      "categories": "fiction",
+      "summary": "Ankita has fought a mental disorder, been through hell, and survived two suicide attempts. Now in Mumbai, surrounded by her loving and supportive parents, everything seems idyllic. studying her dream subject: Creative Writing."
+    },
+    {
+      "id": 15,
+      "title": "Oaths Of Vayuputra",
+      "pageCount": "581",
+      "authors": "Amit Tripathi",
+      "categories": "fiction",
+      "summary": "the mythical story about an imaginary land Meluha and how its inhabitants were saved by a barbarian named Shiva. Starting from where the previous installment left off, Shiva discovers what is the true evil in The Oath of the Vayuputras."
+    },
+    {
+      "id": 16,
+      "title": "3 mistakes Of my life",
+      "pageCount": "413",
+      "authors": "Chetan bhagat",
+      "categories": "non-fiction",
+      "summary": "In late 2000, a young boy in Ahmedabad dreams of owning a business. To accommodate his friends' passion, he opens a cricket shop. However, nothing comes easy in a turbulent city. "
+    },
+    {
+      "id": 17,
+      "title": "2 States",
+      "pageCount": "300",
+      "authors": "Chetan Bhagat",
+      "categories": "drama",
+      "summary": "The story is about a couple Krish and Ananya, who hail from two states of India, Punjab and Tamil Nadu, respectively, who are deeply in love and want to marry"
+    },
+    {
+      "id": 19,
+      "title": "Anne Frank's Diary",
+      "pageCount": "147",
+      "authors": "Anne Frank",
+      "categories": "non-friction",
+      "summary": "It tells the story of her family who live in Frankfurt, Germany and suddenly have to go into hiding during the second world war. They escape to Amsterdam where they go into hiding with other Jews. The diary ends suddenly on 1 August 1944"
+    },
+    {
+      "id": 20,
+      "title": "Mysterious World",
+      "pageCount": "214",
+      "authors": "A.B Patnayak",
+      "categories": "thriller",
+      "summary": "nexplained phenomena from around the world."
+    },
+    {
+      "id": 21,
+      "title": "Many Masters Many Lives",
+      "pageCount": "615",
+      "authors": "Dr. Brian",
+      "categories": "non-fiction",
+      "summary": "It is the true story of a prominent psychiatrist, his young patient, and the past-life therapy that changed both their lives"
+    },
+    {
+      "id": 22,
+      "title": "Last Queen",
+      "pageCount": "502",
+      "authors": "Chitra Banerjee",
+      "categories": "fiction",
+      "summary": "The Last Queen by Chitra Banerjee Divakaruni is the tale of Rani Jindan Kaur, Mother of the Khalsa. The fierce queen history forgot. A regent queen to her son, she defied tradition to step out of the zenana, and conduct the royal business in public. "
+    },
+    {
+      "id": 23,
+      "title": "Agnipankh",
+      "pageCount": "345",
+      "authors": "APJ Abdul Kalam Azad",
+      "categories": "biography",
+      "summary": "Agnipankh introduces you to the life journey of out Abdul sir"
+    },
+    {
+      "id": 24,
+      "title": "Princess",
+      "pageCount": "112",
+      "authors": "Barbie",
+      "categories": "fiction",
+      "summary": "Princess is a barbie's fiction character"
+    }
+  ]
+}
